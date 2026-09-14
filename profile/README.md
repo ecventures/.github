@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Backlink-Hell/brand/main/logo.svg" alt="Backlink Hell" width="240">
-</p>
+# Emerald Coast Ventures
 
-<h2 align="center">Backlink Hell</h2>
+[Emerald Coast Ventures Inc](https://emeraldcoastventures.net) is a Florida parent company that builds software-as-a-service platforms and custom software products.
 
-<p align="center">The free backlink exchange for vetted sites. <a href="https://backlinkhell.com">backlinkhell.com</a></p>
+## Products
 
-<p align="center">Brand assets live in <a href="https://github.com/Backlink-Hell/brand">Backlink-Hell/brand</a>.</p>
+- [Backlink Hell](https://backlinkhell.com), the free backlink exchange for vetted sites. Its brand assets are in [ecventures/brand](https://github.com/ecventures/brand).
